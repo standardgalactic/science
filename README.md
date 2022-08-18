@@ -112,4 +112,4 @@ and is automatically uploaded to Docker Hub at https://hub.docker.com/repository
 
 This Docker image is loaded by the file [build-pdf.yml](.github/workflows/build-pdf.yml#L31) in order to build the PDF version of the book.
 
-The latest build is uploaded to Github when a new git tag is pushed, which 
+The latest build is uploaded to Github when a new git tag is pushed.
